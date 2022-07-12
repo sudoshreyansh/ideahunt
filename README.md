@@ -6,6 +6,18 @@ IdeaHunt is a decentralized platform based on the Ethereum chain to host idea bo
 - [x] Token-gated permissions in boards
 
 
-You can view the project live: <br />
+**View the project live:** <br />
 Frontend: https://idea-hunt-rho.vercel.app <br />
 Smart Contract: [View on EtherScan](https://rinkeby.etherscan.io/address/0xBB255E661EEb22F5014D121B2a38873247D2d7aD)
+
+## Tech Stack
+
+- Frontend
+  - Next JS
+  - TailwindCSS
+  - Ethers.js
+  
+- Smart Contract
+  - Solidity
+  - Hardhat
+  - OpenZeppelin
